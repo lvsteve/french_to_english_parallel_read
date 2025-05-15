@@ -2,6 +2,8 @@
 
 A Streamlit app that uses OpenAI GPT-4 to translate uploaded French documents (.txt, .docx, .pdf) into English.
 
+The two versions are presented side-by-side for immediate comparison of the translation.
+
 ## Setup
 
 1. Install dependencies:
