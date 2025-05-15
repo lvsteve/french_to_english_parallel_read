@@ -1,8 +1,8 @@
 # French-to-English Translator with Parallel Read (GPT-4)
 
-A Streamlit app that uses OpenAI GPT-4 to translate uploaded French documents (.txt, .docx, .pdf) into English.
+A Streamlit app that uses OpenAI GPT-4 to translate manually entered text or uploaded French documents (.txt, .docx, .pdf) into English.
 
-The two versions are presented side-by-side for immediate comparison of the translation.
+The two versions (French and English) are presented side-by-side for immediate comparison of the translation.
 
 ## Setup
 
