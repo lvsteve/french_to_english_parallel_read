@@ -1,4 +1,4 @@
-# French-to-English Translator (GPT-4)
+# French-to-English Translator with Parallel Read (GPT-4)
 
 A Streamlit app that uses OpenAI GPT-4 to translate uploaded French documents (.txt, .docx, .pdf) into English.
 
